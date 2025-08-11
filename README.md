@@ -103,7 +103,7 @@ This traffic was isolated using protocol filters, making it easy to identify the
 ## Screenshots
 ### Live Capture
 
-![Live Capture](screenshots/live-capture.png)
+![Live Capture](live-capture.png)
 
 ### ICMP Filter View
 
@@ -115,11 +115,7 @@ This traffic was isolated using protocol filters, making it easy to identify the
 
 ### DNS Filter View
 
-![DNS Filter](screenshots/dns-filter.png)
-
-### TCP Stream Conversation
-
-![TCP Stream](screenshots/tcp-stream.png)
+![DNS Filter](dns-filter.png)
 
 ---
 ##  Conclusion

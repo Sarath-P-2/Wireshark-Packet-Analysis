@@ -111,7 +111,7 @@ This traffic was isolated using protocol filters, making it easy to identify the
 
 ### HTTP Filter View
 
-![HTTP Filter](screenshots/http-filter.png)
+![HTTP Filter](http-filter.png)
 
 ### DNS Filter View
 

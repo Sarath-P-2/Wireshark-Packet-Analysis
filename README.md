@@ -1,19 +1,14 @@
-# task5-wireshark-analysis
-
+# wireshark-analysis
 ##  Objective
 Capture and analyze network traffic using **Wireshark** to identify protocols, IPs, and packet details.
-
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - **Wireshark** (GUI packet analyzer)
 - **Kali Linux** (Operating System)
 
 ---
-
-
 ## Steps Performed
-
 ### 1. Verify Wireshark Installation
 ```bash
 wireshark --version
@@ -71,7 +66,6 @@ dns
 * Followed a TCP stream for HTTP request/response analysis
 
 ---
-
 ## Key Observations
 
 * **ICMP:** Ping requests/replies to Google servers
@@ -80,7 +74,6 @@ dns
 * **TCP Streams:** Showed plain-text HTTP communication
 
 ---
-
 ## Protocol Details
 
 ### ICMP (Internet Control Message Protocol)
@@ -99,7 +92,6 @@ dns
 * In unsecured HTTP, data (including headers and content) is transmitted in plain text.
 
 ---
-
 ## Scan Summary
 
 During the capture, Wireshark recorded multiple types of network traffic, including ICMP pings, DNS lookups, and HTTP requests.
@@ -109,7 +101,6 @@ This traffic was isolated using protocol filters, making it easy to identify the
 ---
 
 ## Screenshots
-
 ### Live Capture
 
 ![Live Capture](screenshots/live-capture.png)
@@ -131,10 +122,8 @@ This traffic was isolated using protocol filters, making it easy to identify the
 ![TCP Stream](screenshots/tcp-stream.png)
 
 ---
-
-## 📄 Conclusion
+##  Conclusion
 
 Wireshark enables deep inspection of network traffic, helping in protocol analysis, IP tracking, and troubleshooting.
 Filters make it easier to isolate relevant traffic for investigation, and TCP stream following provides a complete picture of communication between endpoints.
-
 ---

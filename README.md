@@ -1,6 +1,6 @@
 # wireshark-analysis
 ##  Objective
-Capture and analyze network traffic using **Wireshark** to identify protocols, IPs, and packet details.
+    Capture and analyze network traffic using **Wireshark** to identify protocols, IPs, and packet details.
 ---
 
 ## Tools Used
@@ -124,6 +124,6 @@ This traffic was isolated using protocol filters, making it easy to identify the
 ---
 ##  Conclusion
 
-Wireshark enables deep inspection of network traffic, helping in protocol analysis, IP tracking, and troubleshooting.
-Filters make it easier to isolate relevant traffic for investigation, and TCP stream following provides a complete picture of communication between endpoints.
+    Wireshark enables deep inspection of network traffic, helping in protocol analysis, IP tracking, and troubleshooting.
+    Filters make it easier to isolate relevant traffic for investigation, and TCP stream following provides a complete picture of communication between endpoints.
 ---

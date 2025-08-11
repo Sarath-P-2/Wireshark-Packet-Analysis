@@ -107,7 +107,7 @@ This traffic was isolated using protocol filters, making it easy to identify the
 
 ### ICMP Filter View
 
-![ICMP Filter](screenshots/icmp-filter.png)
+![ICMP Filter](icmp-filter.png)
 
 ### HTTP Filter View
 

@@ -1,6 +1,6 @@
 # wireshark-analysis
 ##  Objective
-    Capture and analyze network traffic using **Wireshark** to identify protocols, IPs, and packet details.
+    * Capture and analyze network traffic using **Wireshark** to identify protocols, IPs, and packet details. *
 ---
 
 ## Tools Used
